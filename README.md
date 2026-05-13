@@ -1,4 +1,4 @@
-# AR Risk Scoring Model — Finance Analytics
+# AR Risk Scoring Model Finance Analytics
 
 Predicting the probability of payment delinquency using machine learning, SQL-based feature engineering, and interactive dashboards.
 
