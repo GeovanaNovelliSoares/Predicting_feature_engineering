@@ -87,7 +87,6 @@ New features created on top of raw data:
 SHAP values are used to explain individual predictions and communicate results to non-technical stakeholders.
 
 ### 4. Dashboard
-[View on Looker Studio →](#) *(link to be added after deployment)*
 
 The dashboard includes:
 - Risk score distribution across the portfolio
@@ -103,10 +102,4 @@ The dashboard includes:
 - The top 10% highest-scored customers account for ~60% of all defaults
 - `weighted_late_score` and `debt_ratio` are the strongest predictors
 
----
-
-## Author
-
-**[Geovana Novelli Soares]**
-Data Science | Finance Analytics
 ---
